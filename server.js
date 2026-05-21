@@ -15,8 +15,8 @@ const app = express();
 const port=4000;
 
 const allowedOrigins=[
-    "https://frontend-hms-alpha.vercel.app/",
-    "https://admin-hms-eight.vercel.app/"
+    "https://frontend-hms-alpha.vercel.app",
+    "https://admin-hms-eight.vercel.app"
 ];
 
 //Middlewares
